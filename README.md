@@ -26,7 +26,7 @@ If you like using WSL and VisualStudio Code from Windows you can follow the docu
 
 ## List of Notebooks
 
-|Notebook||Purpose|
+|Notebook|Purpose|
 |-|-|
 |dns.ipynb|Hunt C2 over DNS|
 
